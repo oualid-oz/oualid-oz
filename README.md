@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oualid-oz
+- 👀 I’m interested in machine learning, ai and big data
+- 🌱 I’m currently learning javaFx
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Linkedin: [o.ouzanik](https://www.linkedin.com/in/oualid-ouzanik/)
